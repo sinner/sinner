@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-My name is José Gabriel, I'm System Engineer from Venezuela 🇻🇪.<br>I consider myself a Fullstack developer 💻 with a great experience in backend and frontend technologies.<br>I like to learn new technologies and programming languages.<br>I try to follow the best practices, SOLID principles, and design patterns.<br>I like to play football ⚽, tennis 🎾, and skateboard 🛹.<br><br>
+My name is José Gabriel, I'm System Engineer from Venezuela 🇻🇪 living in Bogotá, Colombia.<br>I consider myself a Fullstack developer 💻 with a great experience in backend and frontend technologies.<br>I like to learn new technologies and programming languages.<br>I try to follow the best practices, SOLID principles, and design patterns.<br>I like to play football ⚽, tennis 🎾, and skateboard 🛹.<br><br>
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I’m currently learning Swift and iOS
